@@ -1,0 +1,101 @@
+﻿Lần,Ảnh,Biển,Loại,Nhãn đúng,Dự đoán,Tên dự đoán,Độ tin cậy (%),Vượt 60%,Đúng,Thời gian (ms)
+1,2840.jpg,P.124a*,mới,47,47,Cấm quay đầu,92.3,True,True,11.27
+2,0584.jpg,P.130,mới,43,43,Cấm dừng và đỗ xe,94.0,True,True,8.44
+3,0175.jpg,W.207,cũ,11,11,Giao nhau với đường không ưu tiên,86.5,True,True,6.54
+4,3153.jpg,P.106a*Xe tải,cũ,16,16,Cấm xe ô tô tải,80.2,True,True,6.21
+5,1049.jpg,W.224,cũ,27,27,Đường người đi bộ cắt ngang,99.7,True,True,6.14
+6,0989.jpg,W.246a,mới,61,61,Chướng ngoại vật phía trước,94.8,True,True,5.86
+7,0919.jpg,P.123a,mới,45,45,Cấm rẽ trái,100.0,True,True,6.18
+8,0686.jpg,P.130,mới,43,43,Cấm dừng và đỗ xe,98.1,True,True,6.15
+9,3138.jpg,P.106a*Xe tải,cũ,16,16,Cấm xe ô tô tải,100.0,True,True,6.03
+10,0577.jpg,P.107,mới,52,52,Cấm ô tô khách và ô tô tải,99.4,True,True,6.36
+11,2911.jpg,I.434a,mới,63,63,Bến xe buýt,94.1,True,True,6.23
+12,3151.jpg,P.131a,mới,44,43,Cấm dừng và đỗ xe,45.8,False,False,6.6
+13,2481.jpg,P.127*60,cũ,3,13,Giao nhau với đường ưu tiên (nhường đường),69.7,True,False,6.29
+14,0536.jpg,R.302a,cũ,38,38,Hướng phải đi vòng chướng ngại vật sang phải,100.0,True,True,6.39
+15,2651.jpg,P.102,cũ,17,17,Cấm đi ngược chiều,100.0,True,True,6.71
+16,1929.jpg,P.127*60,cũ,3,3,Tốc độ tối đa 60 km/h,46.2,False,True,5.93
+17,0212.jpg,P.124c,mới,48,48,Cấm rẽ trái và quay đầu xe,100.0,True,True,5.96
+18,0193.jpg,P.124c,mới,48,48,Cấm rẽ trái và quay đầu xe,100.0,True,True,6.28
+19,0565.jpg,P.107,mới,52,52,Cấm ô tô khách và ô tô tải,100.0,True,True,6.27
+20,0880.jpg,W.224,cũ,27,27,Đường người đi bộ cắt ngang,58.0,False,True,6.14
+21,0947.jpg,R.302a,cũ,38,38,Hướng phải đi vòng chướng ngại vật sang phải,100.0,True,True,5.93
+22,2351.jpg,P.130,mới,43,43,Cấm dừng và đỗ xe,97.3,True,True,6.63
+23,2677.jpg,P.131a,mới,44,44,Cấm đỗ xe,98.3,True,True,5.95
+24,0178.jpg,W.224,cũ,27,27,Đường người đi bộ cắt ngang,80.1,True,True,6.31
+25,2519.jpg,I.434a,mới,63,63,Bến xe buýt,100.0,True,True,5.93
+26,0803.jpg,P.117*,mới,54,54,Giới hạn chiều cao,61.4,True,True,6.33
+27,3049.jpg,P.130,mới,43,43,Cấm dừng và đỗ xe,95.8,True,True,6.24
+28,2874.jpg,R.415a,mới,64,64,Biển gộp làn đường theo phương tiện,100.0,True,True,6.04
+29,3021.jpg,W.201a,cũ,19,19,Chỗ ngoặt nguy hiểm vòng bên trái,100.0,True,True,5.86
+30,1921.jpg,P.130,mới,43,43,Cấm dừng và đỗ xe,91.1,True,True,6.07
+31,0884.jpg,P.127*40,mới,49,27,Đường người đi bộ cắt ngang,93.0,True,False,6.02
+32,2093.jpg,P.111,mới,53,53,Cấm xe hai và ba bánh,80.2,True,True,5.77
+33,2648.jpg,R.302a,cũ,38,38,Hướng phải đi vòng chướng ngại vật sang phải,100.0,True,True,6.11
+34,1053.jpg,W.224,cũ,27,27,Đường người đi bộ cắt ngang,99.7,True,True,5.99
+35,0075.jpg,P.124c,mới,48,48,Cấm rẽ trái và quay đầu xe,99.9,True,True,6.04
+36,0758.jpg,W.221b,cũ,22,22,"Đường có ổ gà, lồi lõm",84.8,True,True,6.1
+37,3013.jpg,W.245a,mới,58,58,Đi chậm,95.8,True,True,6.35
+38,1940.jpg,P.127*40,mới,49,49,Tốc độ tối đa 40 km/h,89.9,True,True,6.02
+39,1359.jpg,P.131a,mới,44,44,Cấm đỗ xe,71.4,True,True,6.15
+40,0758.jpg,P.127*60,cũ,3,3,Tốc độ tối đa 60 km/h,99.7,True,True,6.17
+41,0858.jpg,W.224,cũ,27,27,Đường người đi bộ cắt ngang,99.2,True,True,6.09
+42,1335.jpg,R.415a,mới,64,64,Biển gộp làn đường theo phương tiện,44.0,False,True,6.42
+43,0565.jpg,P.117*,mới,54,54,Giới hạn chiều cao,78.0,True,True,6.31
+44,1554.jpg,W.205b,mới,59,59,Đường giao nhau (ngã ba bên trái),40.1,False,True,6.53
+45,0571.jpg,P.130,mới,43,43,Cấm dừng và đỗ xe,90.1,True,True,6.26
+46,1465.jpg,P.130,mới,43,43,Cấm dừng và đỗ xe,84.8,True,True,6.27
+47,1377.jpg,P.123b,mới,46,46,Cấm rẽ phải,99.6,True,True,6.49
+48,2677.jpg,P.127*60,cũ,3,3,Tốc độ tối đa 60 km/h,95.8,True,True,6.16
+49,1027.jpg,P.124a*,mới,47,47,Cấm quay đầu,98.2,True,True,6.04
+50,0296.jpg,W.201a,cũ,19,19,Chỗ ngoặt nguy hiểm vòng bên trái,72.9,True,True,6.21
+51,3067.jpg,I.407a,mới,62,62,Đường một chiều,81.2,True,True,6.32
+52,2174.jpg,P.127*60,cũ,3,3,Tốc độ tối đa 60 km/h,58.3,False,True,7.82
+53,2459.jpg,I.407a,mới,62,62,Đường một chiều,100.0,True,True,6.06
+54,0625.jpg,P.130,mới,43,43,Cấm dừng và đỗ xe,96.9,True,True,5.95
+55,1542.jpg,P.127*50,cũ,2,5,Tốc độ tối đa 80 km/h,48.0,False,False,6.11
+56,0509.jpg,P.102,cũ,17,17,Cấm đi ngược chiều,80.3,True,True,6.17
+57,2486.jpg,P.130,mới,43,43,Cấm dừng và đỗ xe,81.2,True,True,6.4
+58,1096.jpg,R.302a,cũ,38,38,Hướng phải đi vòng chướng ngại vật sang phải,100.0,True,True,6.46
+59,2776.jpg,W.245a,mới,58,58,Đi chậm,68.5,True,True,6.23
+60,2705.jpg,R.415a,mới,64,64,Biển gộp làn đường theo phương tiện,100.0,True,True,6.11
+61,1470.jpg,P.123a,mới,45,45,Cấm rẽ trái,99.0,True,True,6.06
+62,2611.jpg,P.127*60,cũ,3,38,Hướng phải đi vòng chướng ngại vật sang phải,48.1,False,False,6.35
+63,0799.jpg,P.117*,mới,54,52,Cấm ô tô khách và ô tô tải,42.0,False,False,6.27
+64,3025.jpg,W.201a,cũ,19,19,Chỗ ngoặt nguy hiểm vòng bên trái,100.0,True,True,6.21
+65,0457.jpg,W.245a,mới,58,58,Đi chậm,67.2,True,True,6.35
+66,0300.jpg,I.434a,mới,63,63,Bến xe buýt,79.6,True,True,5.91
+67,2889.jpg,P.127*80,cũ,5,3,Tốc độ tối đa 60 km/h,80.1,True,False,6.02
+68,0935.jpg,W.224,cũ,27,27,Đường người đi bộ cắt ngang,93.3,True,True,6.0
+69,1070.jpg,W.225,cũ,28,28,Trẻ em,83.5,True,True,6.36
+70,0514.jpg,P.102,cũ,17,17,Cấm đi ngược chiều,82.2,True,True,6.34
+71,0574.jpg,P.130,mới,43,43,Cấm dừng và đỗ xe,100.0,True,True,6.23
+72,2108.jpg,W.207,cũ,11,11,Giao nhau với đường không ưu tiên,96.4,True,True,6.67
+73,2815.jpg,W.201b,cũ,20,20,Chỗ ngoặt nguy hiểm vòng bên phải,99.9,True,True,8.4
+74,1478.jpg,P.123a,mới,45,45,Cấm rẽ trái,99.9,True,True,6.09
+75,0760.jpg,P.129,mới,55,55,Kiểm tra,100.0,True,True,6.19
+76,1520.jpg,P.127*40,mới,49,49,Tốc độ tối đa 40 km/h,100.0,True,True,5.85
+77,1446.jpg,W.224,cũ,27,27,Đường người đi bộ cắt ngang,70.4,True,True,5.76
+78,0843.jpg,P.131a,mới,44,44,Cấm đỗ xe,66.6,True,True,5.97
+79,2901.jpg,P.127*50,cũ,2,2,Tốc độ tối đa 50 km/h,100.0,True,True,6.34
+80,1035.jpg,P.124a*,mới,47,47,Cấm quay đầu,63.6,True,True,5.94
+81,3021.jpg,P.127*50,cũ,2,2,Tốc độ tối đa 50 km/h,84.0,True,True,5.87
+82,2924.jpg,W.201b,cũ,20,20,Chỗ ngoặt nguy hiểm vòng bên phải,99.7,True,True,5.97
+83,2872.jpg,P.102,cũ,17,17,Cấm đi ngược chiều,100.0,True,True,5.56
+84,0459.jpg,W.245a,mới,58,58,Đi chậm,75.5,True,True,6.09
+85,2688.jpg,R.302a,cũ,38,38,Hướng phải đi vòng chướng ngại vật sang phải,100.0,True,True,6.17
+86,2814.jpg,W.201b,cũ,20,20,Chỗ ngoặt nguy hiểm vòng bên phải,84.1,True,True,6.22
+87,0769.jpg,P.130,mới,43,43,Cấm dừng và đỗ xe,96.5,True,True,6.17
+88,2450.jpg,W.246a,mới,61,61,Chướng ngoại vật phía trước,84.2,True,True,5.72
+89,3067.jpg,W.201a,cũ,19,19,Chỗ ngoặt nguy hiểm vòng bên trái,100.0,True,True,6.0
+90,0760.jpg,W.221b,cũ,22,22,"Đường có ổ gà, lồi lõm",100.0,True,True,5.7
+91,2190.jpg,P.127*80,cũ,5,5,Tốc độ tối đa 80 km/h,76.6,True,True,6.01
+92,1554.jpg,P.139,mới,57,57,Cấm đi thẳng và rẽ phải,75.2,True,True,5.97
+93,1038.jpg,P.124a*,mới,47,47,Cấm quay đầu,85.2,True,True,5.97
+94,2840.jpg,P.137,mới,56,56,Cấm rẽ trái và phải,70.6,True,True,5.83
+95,2951.jpg,W.245a,mới,58,22,"Đường có ổ gà, lồi lõm",43.6,False,False,6.41
+96,2490.jpg,P.102,cũ,17,17,Cấm đi ngược chiều,100.0,True,True,6.01
+97,0883.jpg,W.224,cũ,27,27,Đường người đi bộ cắt ngang,96.8,True,True,6.05
+98,2930.jpg,W.245a,mới,58,58,Đi chậm,93.7,True,True,5.91
+99,1228.jpg,P.111,mới,53,53,Cấm xe hai và ba bánh,87.5,True,True,5.93
+100,0347.jpg,P.124c,mới,48,48,Cấm rẽ trái và quay đầu xe,96.8,True,True,6.08
