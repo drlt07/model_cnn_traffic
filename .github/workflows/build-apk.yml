@@ -1,8 +1,9 @@
-
 name: Build BienBaoAI Android APK
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
 
 jobs:
   build:
@@ -26,16 +27,23 @@ jobs:
         uses: subosito/flutter-action@v2
         with:
           channel: stable
+          # Ghim phiên bản để lần build sau không tự đổi sang Flutter mới hơn
+          flutter-version: 3.24.5
           cache: true
 
-      - name: Install dependencies
-        run: flutter pub get
-
+      # Tạo thư mục android/ TRƯỚC khi lấy package
       - name: Generate Android project if missing
         run: |
           if [ ! -d android ]; then
-            flutter create --platforms=android .
+            flutter create --platforms=android --org com.bienbao .
           fi
+
+      # Bước bị thiếu: nâng minSdk lên 26 (tflite_flutter cần), bật proguard, đổi tên app
+      - name: Patch Android config
+        run: bash ci/patch_android.sh
+
+      - name: Install dependencies
+        run: flutter pub get
 
       - name: Build APK
         run: flutter build apk --release
